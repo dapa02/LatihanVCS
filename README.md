@@ -1,5 +1,6 @@
 # LatihanVCS
 1. Login terlebih dahulu di github.com
+<img width="960" alt="2022-10-18" src="https://user-images.githubusercontent.com/115615983/196600134-1084be41-6059-435c-b234-653e054c4f9e.png">
 
 2. Setelah login buat Repository baru pada github.com
 
