@@ -18,6 +18,8 @@ Lakukan git clone https://github.com/dapa02/LatihanVCS untuk memindahkan file ya
 
 
 Setelah itu lakukan syntax git clone https://github.com/dapa02/LatihanVCS
+![Screenshot (5)](https://user-images.githubusercontent.com/115615983/196602050-22ed86a5-05d1-409d-baf8-34a299023900.png)
+
 
 
 
