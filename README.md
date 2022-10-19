@@ -8,6 +8,8 @@
 
 4. Login pada git bash
 5. Mendapatkan global config
+![Screenshot (5)](https://user-images.githubusercontent.com/115615983/196602050-22ed86a5-05d1-409d-baf8-34a299023900.png)
+
 
 5. Setelah itu ke git bash untuk menghubungkan Git Bash dengan Github
 
@@ -16,6 +18,7 @@ Lakukan git clone https://github.com/dapa02/LatihanVCS untuk memindahkan file ya
 
 
 Setelah itu lakukan syntax git clone https://github.com/dapa02/LatihanVCS
+
 
 
 Cek direktori pada folder C di Laptop
