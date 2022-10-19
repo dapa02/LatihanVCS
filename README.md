@@ -7,6 +7,7 @@
 3. Buat Nama Repositori LatihanVCS setelah ikuti gambar yang dibawah ini
 
 4. Login pada git bash
+5. Mendapatkan global config
 
 5. Setelah itu ke git bash untuk menghubungkan Git Bash dengan Github
 
